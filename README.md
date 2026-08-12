@@ -1,216 +1,320 @@
 <div align="center">
 
-# Kunal Meshram
-
-### Software Developer · Full-Stack Developer
-
-Building web applications, exploring AI, and solving problems with code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=220&section=header&text=Kunal%20Meshram&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
 
 <br>
 
-<a href="https://github.com/KunalMeshRam0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kunal-meshram-6b3930275/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=I+build+things+that+solve+problems.;Full-Stack+Development+%7C+AI+%7C+DSA;Turning+ideas+into+working+software.;Currently+building+%26+learning." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Full-Stack+Development;AI-powered+Applications;Data+Structures+%26+Algorithms;Turning+ideas+into+working+software" />
+<a href="https://github.com/KunalMeshRam0">
+<img src="https://img.shields.io/badge/GitHub-KunalMeshRam0-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kunal-meshram-6b3930275/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
----
-
-## About
-
-I'm a Computer Science Engineering student interested in building practical software and understanding how things work beyond the interface.
-
-My current focus is on **full-stack development, backend engineering, AI-powered applications, and Data Structures & Algorithms**.
-
-I enjoy taking an idea from a rough concept to a working application — designing the interface, building the backend, connecting the database, and figuring out the problems along the way.
-
-Currently preparing for **Software Development roles** and continuously improving through projects and problem solving.
+<br>
 
 ---
-
-## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,cs,java,react,nodejs,express,fastapi,mongodb,postgres,sqlite,tailwind,git,github,postman&perline=8" />
+### A developer who likes building more than talking about building.
+
+</div>
+
+<br>
+
+## `whoami`
+
+I'm **Kunal**, a Computer Science Engineering student focused on becoming a strong software developer.
+
+I like working across the stack — designing interfaces, building APIs, working with databases, and figuring out the engineering problems that connect everything together.
+
+Recently, I've also been exploring **AI-powered applications** and how AI can be turned into useful products rather than just demos.
+
+```text
+Focus
+├── Software Development
+├── Full-Stack Applications
+├── Backend Engineering
+├── AI-powered Applications
+└── Data Structures & Algorithms
+```
+
+---
+
+## `stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,cs,react,nodejs,express,fastapi,mongodb,postgres,sqlite,tailwind,git,github,postman&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-## Selected Work
+## `selected.work`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### MockMate
+<h3>01 · MockMate</h3>
 
-**AI-powered interview preparation platform**
+<p>
+<strong>AI Interview Preparation Platform</strong>
+</p>
 
-A platform for practicing technical and behavioral interviews through mock sessions, AI-generated feedback, timed responses, and performance tracking.
+<p>
+A platform designed around mock interview practice, AI-generated feedback, timed responses, progress tracking and session history.
+</p>
 
-**Stack**
+<p>
+<code>React</code> &nbsp;
+<code>Node.js</code> &nbsp;
+<code>PostgreSQL</code> &nbsp;
+<code>Prisma</code>
+</p>
 
-`React` · `Node.js` · `PostgreSQL` · `Prisma` · `AI`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/MockMate">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/MockMate">
+View project →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### DocMind-AI
+<h3>02 · DocMind-AI</h3>
 
-**Multimodal document intelligence**
+<p>
+<strong>Document Intelligence</strong>
+</p>
 
-An AI application designed to understand and work with documents using Vision Language Models.
+<p>
+An AI-focused project exploring document understanding and interaction using multimodal / vision-language capabilities.
+</p>
 
-**Stack**
+<p>
+<code>Python</code> &nbsp;
+<code>AI</code> &nbsp;
+<code>VLM</code>
+</p>
 
-`Python` · `AI` · `VLM` · `Document Intelligence`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/DocMind-AI">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/DocMind-AI">
+View project →
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### BFHL Hierarchy Analyzer
+<h3>03 · BFHL Hierarchy Analyzer</h3>
 
-**Hierarchical data visualization & analysis**
+<p>
+<strong>Hierarchical Data Analysis</strong>
+</p>
 
-A full-stack application for visualizing hierarchical structures and identifying cycles in tree-like data.
+<p>
+A full-stack application that visualizes hierarchical structures and handles tree-related analysis, including cycle detection.
+</p>
 
-**Stack**
+<p>
+<code>React</code> &nbsp;
+<code>Node.js</code> &nbsp;
+<code>Express</code>
+</p>
 
-`React` · `Node.js` · `Express` · `JavaScript`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/bfhl-hierarchy-analyzer">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/bfhl-hierarchy-analyzer">
+View project →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ShareCare
+<h3>04 · ShareCare</h3>
 
-**Donation & resource management platform**
+<p>
+<strong>Donation & Resource Management</strong>
+</p>
 
-A full-stack platform connecting donors, NGOs, and administrators through a structured donation and request workflow.
+<p>
+A full-stack platform connecting donors, NGOs and administrators through donation, request and management workflows.
+</p>
 
-**Stack**
+<p>
+<code>React</code> &nbsp;
+<code>Node.js</code> &nbsp;
+<code>Express</code> &nbsp;
+<code>MongoDB</code>
+</p>
 
-`React` · `Node.js` · `Express` · `MongoDB`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/ShareCare">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/ShareCare">
+View project →
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### StayFinder
+<h3>05 · StayFinder</h3>
 
-**Hotel & homestay booking platform**
+<p>
+<strong>Hotel & Homestay Booking</strong>
+</p>
 
-A booking application with authentication, property management, search, and booking workflows.
+<p>
+A full-stack booking platform with authentication, property management, search and booking workflows.
+</p>
 
-**Stack**
+<p>
+<code>React</code> &nbsp;
+<code>FastAPI</code> &nbsp;
+<code>SQLite</code> &nbsp;
+<code>Tailwind</code>
+</p>
 
-`React` · `FastAPI` · `SQLite` · `Tailwind`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/hotel-and-homestay-booking">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/hotel-and-homestay-booking">
+View project →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### FiberGuard
+<h3>06 · FiberGuard</h3>
 
-**Infrastructure-focused web application**
+<p>
+<strong>Infrastructure-focused Application</strong>
+</p>
 
-A software project built around monitoring and managing fiber-related infrastructure.
+<p>
+A project focused on software-driven management and monitoring of fiber-related infrastructure.
+</p>
 
-**Stack**
+<p>
+<code>JavaScript</code> &nbsp;
+<code>Web</code>
+</p>
 
-`JavaScript` · `Web Development`
-
-<br>
-
-<a href="https://github.com/KunalMeshRam0/FiberGuard">View repository →</a>
+<a href="https://github.com/KunalMeshRam0/FiberGuard">
+View project →
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## What I'm Working On
-
-**01 — Data Structures & Algorithms**
-Strengthening problem-solving and preparing for technical interviews.
-
-**02 — Full-Stack Development**
-Building applications with modern frontend, backend, and database technologies.
-
-**03 — AI Applications**
-Exploring practical ways to integrate AI into useful software rather than building AI features just for the sake of it.
-
----
-
-## GitHub
+## `currently`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalMeshRam0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMeshRam0&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+### DSA
 
-<br><br>
+Strengthening problem-solving and preparing for technical interviews.
 
-<img src="https://streak-stats.demolab.com?user=KunalMeshRam0&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+</td>
+
+<td align="center" width="33%">
+
+### Development
+
+Building stronger full-stack applications and backend systems.
+
+</td>
+
+<td align="center" width="33%">
+
+### AI
+
+Exploring practical AI integrations and intelligent applications.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Let's Connect
+## `github.stats`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KunalMeshRam0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&rank_icon=github" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalMeshRam0&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" />
+
+<br><br>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunalMeshRam0&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `outside.the.code`
+
+When I'm not working on a project, I'm usually trying to understand something I couldn't build yesterday.
+
+I'm particularly interested in:
+
+`Software Engineering` · `Backend Systems` · `AI` · `Algorithms` · `Developer Tools`
+
+---
+
+## `connect`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kunal-meshram-6b3930275/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
  
 
 <a href="https://github.com/KunalMeshRam0">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-Open to software development opportunities, interesting projects, and collaborations.
+**Open to software development opportunities and interesting collaborations.**
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KunalMeshRam0&style=flat-square&color=58A6FF&label=profile+views" />
+
+<br><br>
+
+<sub>Built with curiosity, coffee, and a lot of debugging.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
