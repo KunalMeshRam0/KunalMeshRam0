@@ -28,31 +28,39 @@ I enjoy working across the stack — building interfaces, developing APIs, worki
 
 My current interests are **full-stack development, backend engineering, AI-powered applications, and Data Structures & Algorithms**.
 
-<table>
+<br>
+
+<div align="center">
+
+<table border="0">
 <tr>
+
 <td width="50%" valign="top">
 
-### What I build
+<h3>BUILDING</h3>
 
-* Full-stack web applications
-* REST APIs and backend systems
-* Database-driven applications
-* AI-assisted and intelligent software
+Full-stack applications
+REST APIs & backend systems
+Database-driven products
+AI-powered software
 
 </td>
 
 <td width="50%" valign="top">
 
-### What I'm improving
+<h3>CURRENTLY LEARNING</h3>
 
-* Data Structures & Algorithms
-* Software engineering fundamentals
-* Backend architecture
-* Practical AI integrations
+Data Structures & Algorithms
+Software engineering fundamentals
+Backend architecture
+Practical AI integration
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -60,17 +68,33 @@ My current interests are **full-stack development, backend engineering, AI-power
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,cs,java,react,nodejs,express,fastapi,mongodb,postgres,sqlite,tailwind,git,github,postman&theme=dark&perline=8" />
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,cs,java&theme=dark" />
 
 <br><br>
 
-`C++`   `Python`   `JavaScript`   `C#`   `Java`
+### FRONTEND
 
-`React`   `Node.js`   `Express`   `FastAPI`
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 
-`MongoDB`   `PostgreSQL`   `SQLite`
+<br><br>
 
-`Git`   `GitHub`   `Postman`   `Tailwind CSS`
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<br><br>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 
 </div>
 
